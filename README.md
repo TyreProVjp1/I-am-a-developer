@@ -1,2 +1,3 @@
 # I-am-a-developer
-A simple role-playing game.
+“I am a developer” is an interactive entertainment app designed to simulate the journey of becoming a successful developer. Users start from infancy and progress through various life stages, learning subjects ranging from mathematics, literature, etc. to modern programming languages, frameworks, or other IT fields such as Cybersecurity, Machine Learning, etc. The game operates on a time scale where each year in the game equates to 12 minutes in real life, offering a dynamic and engaging experience. Key features include educational progression, decision-making, financial management, social interactions, and career advancement.
+One of the main goals is to prepare you to apply React Native skills to real-world tasks, or to leave you well-qualified to start a cross-platform project. 
